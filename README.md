@@ -12,9 +12,11 @@ I build products using software as my creative tool. I've built many kinds of pr
 
 I've had to solve all kinds of problems. I'm usually a part of the beginning of a company. I'm used to building things with very minimal resources all the way from MVP to making things scale.
 
+I've built APIs, front-ends, back-ends, platforms that reach hundreds of thousands of users.
+
 ## My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,ruby,elixir,phoenix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,ruby,elixir,react,astro,postgres)](https://skillicons.dev)
 
 <!--
 **zacksiri/zacksiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
