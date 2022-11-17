@@ -21,7 +21,7 @@ You can check out [my blog](https://www.zacksiri.com), to read more about my pub
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,ruby,elixir,react,astro,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,rails,ruby,elixir,react,astro,postgres)](https://skillicons.dev)
 
 <!--
 **zacksiri/zacksiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
