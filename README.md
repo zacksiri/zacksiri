@@ -15,8 +15,6 @@ I've solved many kind of problems. I'm usually a part of the beginning of a comp
 
 I've built APIs, front-ends, back-ends, platforms, infrastructures, worked a lot with databases writing complex queries that improve the lives of people that use my products.
 
-## My Blog
-
 You can check out [my blog](https://www.zacksiri.com), to read more about my publications and thoughts.
 
 ## My Skills
