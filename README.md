@@ -26,9 +26,6 @@ You can check out [my blog](https://www.zacksiri.com), to read more about my pub
 
 ## My Stats
 ![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacksiri&show_icons=true&theme=synthwave&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacksiri&langs_count=8&layout=compact)](https://github.com/zacksiri)
-
-
 
 <!--
 **zacksiri/zacksiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
