@@ -4,12 +4,12 @@
 
 I build products using software as my creative tool. I've built many kinds of products.
 
-🏨 Hotel Booking
-🧾 Invoicing CRM
-🚗 Car Booking
-🛒 E-Commerce
-🔍 Business Directory
-💰 FinTech / Banking Engine
++ 🏨 Hotel Booking
++ 🧾 Invoicing CRM
++ 🚗 Car Booking
++ 🛒 E-Commerce
++ 🌏 Location Based Directory
++ 💰 FinTech / Banking Engine
 
 I've solved many kind of problems. I'm usually a part of the beginning of a company. I'm used to building things with very minimal resources all the way from MVP to making things scale to hundreds of thousands of users.
 
