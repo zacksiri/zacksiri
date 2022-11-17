@@ -21,6 +21,11 @@ You can check out [my blog](https://www.zacksiri.com), to read more about my pub
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,astro,html,css,rails,ruby,elixir,postgres)](https://skillicons.dev)
 
+## My Stats
+
+![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacksiri&show_icons=true&theme=dark)
+
+
 <!--
 **zacksiri/zacksiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
