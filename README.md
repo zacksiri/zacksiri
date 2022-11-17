@@ -24,6 +24,9 @@ You can check out [my blog](https://www.zacksiri.com), to read more about my pub
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,astro,tailwind,html,css,rails,ruby,elixir,postgres)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacksiri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## My Stats
 
 ![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacksiri&show_icons=true&theme=synthwave&hide_border=true)
