@@ -15,7 +15,7 @@ I build products using software as my creative tool. I've built many kinds of pr
 
 I've solved many kind of problems. I'm usually a part of the beginning of a company. I'm used to building products and leading teams with very minimal resources. I'm great at taking things from MVP to scaling to hundreds of thousands of users.
 
-I've built APIs, front-ends, back-ends, platforms, infrastructures, worked a lot with databases writing complex queries that improve the lives of people that use my products.
+I've built APIs, front-ends, back-ends, platforms, infrastructures, worked a lot with databases writing complex queries, application performance tuning, all in the spirit of improving the lives of people that use my products.
 
 You can check out [my blog](https://www.zacksiri.com), to read more about my publications and thoughts.
 
