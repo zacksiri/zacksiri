@@ -12,6 +12,7 @@ I build products using software as my creative tool. I've built many kinds of pr
 + 🌏 Location Based Directory
 + 🦹‍♂️ Customer KYC Engine
 + 💰 FinTech / Banking Engine
++ 📦 Continuous Delivery Platform
 
 I've solved many kind of problems. I'm usually a part of the beginning of a company as a result I usually get hired as a CTO but I'm also happy just being a developer working on exciting products. I'm used to getting my hands dirty building products and leading teams with very minimal resources. I'm great at taking things from MVP to scaling to hundreds of thousands of users.
 
