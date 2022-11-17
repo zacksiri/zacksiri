@@ -23,7 +23,7 @@ You can check out [my blog](https://www.zacksiri.com), to read more about my pub
 
 ## My Stats
 
-![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacksiri&show_icons=true&theme=synthwave)
+![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacksiri&show_icons=true&theme=synthwave&hide_border=true)
 
 
 <!--
