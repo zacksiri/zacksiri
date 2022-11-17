@@ -10,7 +10,6 @@ I build products using software as my creative tool. I've built many kinds of pr
 + 🚗 Car Booking
 + 🛒 E-Commerce
 + 🌏 Location Based Directory
-+ 📈 Investment Management
 + 🦹‍♂️ Customer KYC Engine
 + 💰 FinTech / Banking Engine
 
