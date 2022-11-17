@@ -15,13 +15,13 @@ I've solved many kind of problems. I'm usually a part of the beginning of a comp
 
 I've built APIs, front-ends, back-ends, platforms, infrastructures, worked a lot with databases writing complex queries that improve the lives of people that use my products.
 
-## My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,ruby,elixir,react,astro,postgres)](https://skillicons.dev)
-
 ## My Blog
 
 You can check out [my blog](https://www.zacksiri.com), to read more about my publications and thoughts.
+
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,ruby,elixir,react,astro,postgres)](https://skillicons.dev)
 
 <!--
 **zacksiri/zacksiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
