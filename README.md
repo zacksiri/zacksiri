@@ -36,7 +36,7 @@ To enable development to focus on solving for users I employ the following:
 + Refactoring without fear
 + Single Responsibility Principles
 + Occam's Razor mindset for Solution Design
-+ Keeping it Simple
+  + Keeping it Simple
 + Continuous Integration / Deployment
 
 You can check out [my blog](https://www.zacksiri.com), to read more about my publications and thoughts. You can also check out my [linkedin](https://www.linkedin.com/in/zacksiri/) profile.  I also make [youtube videos](https://www.youtube.com/codemynet) related to software development and engineering.
