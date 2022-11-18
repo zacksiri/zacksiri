@@ -18,6 +18,8 @@ I've solved many kind of problems. I'm usually a part of the beginning of a comp
 
 I've built APIs, front-ends, back-ends, platforms, infrastructures, worked a lot with databases writing complex queries, application performance tuning, all in the spirit of improving the lives of people that use my products.
 
+I strive to keep things simple, and ship things in small increments. I beleive it's important to get things in front of real users as fast as possible and iterate based on real feedback.
+
 You can check out [my blog](https://www.zacksiri.com), to read more about my publications and thoughts. You can also check out my [linkedin](https://www.linkedin.com/in/zacksiri/) profile.  I also make [youtube videos](https://www.youtube.com/codemynet) related to software development and engineering.
 
 ## My Skills
