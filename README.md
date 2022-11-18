@@ -20,7 +20,7 @@ I've built APIs, front-ends, back-ends, platforms, infrastructures, worked a lot
 
 I strive to keep things simple, and ship things in small increments. I believe it's important to get things in front of real users as fast as possible and iterate based on real feedback. Conversations I like having about products are.
 
-+ To solve problem X for the user how does the design look in the database?
++ To solve problem X for the user what schemas do we need in the database?
 + To achieve Y user experience, what elements / components do we need to build?
 + To ship feature Z what procedures are necessary, can we get the user invovled in the process?
 + What can we remove to make things easier?
