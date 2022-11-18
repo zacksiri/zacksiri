@@ -28,7 +28,7 @@ I strive to keep things simple, and ship things in small increments. I believe i
 + Are we designing for the exception or designing for the majority of `users`?
 + Endpoint X is slow, `users` are complaining. How can we improve it's performance?
 
-To enable development to focus on users I employ the following:
+To enable development to focus on solving for users I employ the following:
 
 + Convention over Configuration
 + Great Defaults
