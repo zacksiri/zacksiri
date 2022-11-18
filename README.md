@@ -28,6 +28,16 @@ I strive to keep things simple, and ship things in small increments. I believe i
 + Are we designing for the exception or designing for the majority of `users`?
 + Endpoint X is slow, `users` are complaining. How can we improve it's performance?
 
+To enable development to focus on users I employ the following:
+
++ Convention over Configuration
++ Great Defaults
++ Test Coverage
++ Refactoring without fear
++ Single Responsibility Principles
++ Occam's Razor mindset for Solution Design
++ Keeping it Simple
+
 You can check out [my blog](https://www.zacksiri.com), to read more about my publications and thoughts. You can also check out my [linkedin](https://www.linkedin.com/in/zacksiri/) profile.  I also make [youtube videos](https://www.youtube.com/codemynet) related to software development and engineering.
 
 ## My Skills
