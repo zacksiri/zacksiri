@@ -26,7 +26,7 @@ I strive to keep things simple, and ship things in small increments. I believe i
 + Can we get the `users` involved in the process?
 + What can we remove to make things easier for the `user`?
 + Are we designing for the exception or designing for the majority of `users`?
-+ Endpoint X is slow, `users` are complaining. How can we improve it's performance?
++ Endpoint X is slow, `users` are complaining. How can we improve performance?
 
 To enable development to focus on solving for users I employ the following:
 
