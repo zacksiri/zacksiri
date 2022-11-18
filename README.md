@@ -18,7 +18,13 @@ I've solved many kind of problems. I'm usually a part of the beginning of a comp
 
 I've built APIs, front-ends, back-ends, platforms, infrastructures, worked a lot with databases writing complex queries, application performance tuning, all in the spirit of improving the lives of people that use my products.
 
-I strive to keep things simple, and ship things in small increments. I beleive it's important to get things in front of real users as fast as possible and iterate based on real feedback.
+I strive to keep things simple, and ship things in small increments. I believe it's important to get things in front of real users as fast as possible and iterate based on real feedback. Conversations I like having about products are.
+
++ To solve problem X for the user how does the design look in the database?
++ To achieve Y user experience, what elements / components do we need to build?
++ To ship feature Z what procedures are necessary, can we get the user invovled in the process?
++ What can we remove to make things easier?
++ Are we designing for the exception or designing for the majority?
 
 You can check out [my blog](https://www.zacksiri.com), to read more about my publications and thoughts. You can also check out my [linkedin](https://www.linkedin.com/in/zacksiri/) profile.  I also make [youtube videos](https://www.youtube.com/codemynet) related to software development and engineering.
 
