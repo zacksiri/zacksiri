@@ -25,6 +25,7 @@ I strive to keep things simple, and ship things in small increments. I believe i
 + To ship feature Z what procedures are necessary, can we get the user invovled in the process?
 + What can we remove to make things easier?
 + Are we designing for the exception or designing for the majority?
++ Endpoint X is slow, how can we improve it's performance?
 
 You can check out [my blog](https://www.zacksiri.com), to read more about my publications and thoughts. You can also check out my [linkedin](https://www.linkedin.com/in/zacksiri/) profile.  I also make [youtube videos](https://www.youtube.com/codemynet) related to software development and engineering.
 
