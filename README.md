@@ -23,7 +23,7 @@ I strive to keep things simple, and ship things in small increments. I believe i
 + To solve problem X for the `user` what schemas do we need in the database?
 + To achieve Y `user` experience, what elements / components do we need to build?
 + Before we build feature Z have we collected feedback from the `users`? 
-+ Can we get the `users` invovled in the process?
++ Can we get the `users` involved in the process?
 + What can we remove to make things easier for the `user`?
 + Are we designing for the exception or designing for the majority of `users`?
 + Endpoint X is slow, `users` are complaining. How can we improve it's performance?
