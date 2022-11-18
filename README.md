@@ -28,6 +28,20 @@ I strive to keep things simple, and ship things in small increments. I believe i
 + Are we designing for the exception or designing for the majority of `users`?
 + Endpoint X is slow, `users` are complaining. How can we improve it's performance?
 
+When I'm in leadership roles. I tend to choose technology / methodology that enable developers to ship things fast without being bogged down by decisions that do not impact the users. For example I prefer:
+
++ Convention over Configuration
++ Opinionated Technologies
++ Great Defaults
++ Simple Implementations
+  + Single Responsibility Principles
+  + Occam's Razors way of Solution Design
++ Batteries included Frameworks
++ Well Tested Codebase
+  + Enable refactoring without fear
+
+I steer my team away from making decisions that do not impact the users.
+
 You can check out [my blog](https://www.zacksiri.com), to read more about my publications and thoughts. You can also check out my [linkedin](https://www.linkedin.com/in/zacksiri/) profile.  I also make [youtube videos](https://www.youtube.com/codemynet) related to software development and engineering.
 
 ## My Skills
