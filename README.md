@@ -47,6 +47,12 @@ You can check out [my blog](https://www.zacksiri.com), to read more about my pub
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,tailwind,html,css,astro,rails,ruby,elixir,postgres,redis,linux,aws,gcp,cloudflare,githubactions)](https://github.com/zacksiri)
 
+Outside of these icons I'm also familiar with the following technologies
+
++ [Elastic](https://elastic.co)
++ [Digital Ocean](https://digitalocean.com)
++ [Terraform](https://terraform.io)
+
 ## My Stats
 ![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacksiri&show_icons=true&theme=synthwave&hide_border=true)
 
