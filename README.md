@@ -53,9 +53,6 @@ Outside of these icons I'm also familiar with the following technologies
 + [Digital Ocean](https://digitalocean.com)
 + [Terraform](https://terraform.io)
 
-## My Stats
-![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacksiri&show_icons=true&theme=synthwave&hide_border=true)
-
 <!--
 **zacksiri/zacksiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
