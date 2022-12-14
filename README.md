@@ -41,7 +41,7 @@ To enable development to focus on solving for users I employ the following:
   + Keeping it Simple
 + Continuous Integration / Deployment
 
-You can check out [my blog](https://www.zacksiri.com), to read more about my publications and thoughts. You can also check out my [linkedin](https://www.linkedin.com/in/zacksiri/) profile.  I also make [youtube videos](https://www.youtube.com/codemynet) related to software development and engineering.
+You can check out [my blog](https://www.zacksiri.com), to read more about my publications and thoughts. You can also check out my [linkedin](https://www.linkedin.com/in/zacksiri/) profile.  I also make [youtube videos](https://www.youtube.com/codemynet) related to software development and engineering. Hire me through my consultancy business [artellectual.com](https://artellectual.com)
 
 ## My Skills
 
