@@ -3,5 +3,5 @@
 
 ### Hi there 👋
 
-I'm building a continuous deployment platform [instellar.app](https://instellar.app). It enables you to turn any infrastructure into a PaaS.
+I'm building a continuous delivery platform [opsmaru.com](https://opsmaru.com). It enables you to turn any infrastructure into a PaaS.
 
